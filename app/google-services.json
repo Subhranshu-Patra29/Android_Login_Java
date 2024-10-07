@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236484273143",
+    "project_id": "sanskriti-safar",
+    "storage_bucket": "sanskriti-safar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236484273143:android:f1e099a197dbb45003c4f2",
+        "android_client_info": {
+          "package_name": "com.example.androidlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVzxkEOxuBrhwgbjW2Q2Ye5eOQ_f8F94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

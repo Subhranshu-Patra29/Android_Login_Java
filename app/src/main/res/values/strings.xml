@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Android Login</string>
+
+<!--    Intro Page  -->
+    <string name="welcome_text">Welcome to\n\t\t\t\tसंस्कृति Safar</string>
+    <string name="app_description">Journey Through India’s Legacy and Unlock the Wonders of India\'s Heritage</string>
+    <string name="bottom_desc">Bottom White Picture Intro Page</string>
+    <string name="get_started_btn">Get Started</string>
+    <string name="intro_pic_desc">Picture showing Indian Travel and Tourism</string>
+
+<!--    Login Page  -->
+    <string name="email_text">Email</string>
+    <string name="enter_email_text">johnDoe@gmail.com</string>
+    <string name="pass_text">Password</string>
+    <string name="enter_pass_text">Enter Your Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="register_text">New User? Register Now!</string>
+    <string name="social_login_text">Login Using</string>
+    <string name="fb_logo">Facebook Logo for social login</string>
+    <string name="facebook_text">Facebook</string>
+    <string name="google_logo">Google Logo for social login</string>
+    <string name="google_text">Google</string>
+
+<!--    Register Page   -->
+    <string name="name_text">Name</string>
+    <string name="enter_name_text">John Doe</string>
+    <string name="phone_text">Phone No.</string>
+    <string name="enter_phone_no">1234567890</string>
+    <string name="register_btn_text">Sign Up</string>
+    <string name="login_text">Existing User? Login Now</string>
+</resources>
